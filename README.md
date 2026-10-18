@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm a Senior Software Engineer 👋
 
-<!--
-**jonasarioli/jonasarioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer focused on backend development, APIs, and microservices.
 
-Here are some ideas to get you started:
+### Technical Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Engineering:** Java, REST APIs, and microservices
+- **Cloud Engineering:** AWS and cloud-based solutions
+- **Software Design:** Maintainability, testing, and technical problem-solving
+- **AI-assisted Engineering:** Using AI to improve productivity while maintaining code quality and sound engineering judgment
+
+### What You'll Find Here
+
+This profile showcases my learning journey, technical experiments, and personal projects as I continue to grow as a software engineer.
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jonas-arioli)
+- [GitHub](https://github.com/jonasarioli)
